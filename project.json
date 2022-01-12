@@ -53,6 +53,8 @@
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
+  "publishData": {
+    "iconUrl": ".package/checked.png"
+  },
   "targetFramework": "Legacy"
 }
